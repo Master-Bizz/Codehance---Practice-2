@@ -15,7 +15,7 @@ Text Type - string
 # print(i[4])
 # l = "longer sample"
 # print(l[1:5])
-# Shows character 1 - 5: Begins from Zero (0) Remember !
+# Shows character 1 - 5: Begins from Zero (0) Remember!
 # ---------------------------
 # A string is immutable when you can change/edit string values.
 # l = "longer sample"
